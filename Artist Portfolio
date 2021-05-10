@@ -1,0 +1,76 @@
+<html>
+<body>
+
+<style>
+    body {
+        background-color:black;
+        color: white;
+        font-family: 'Roboto Condensed', sans-serif;
+        text-align: center;
+    }
+    @media screen and (max-width: 1000px){
+        p {
+            color:white;
+        }
+    }
+    @media screen and (max-width: 900px){
+        p {
+            color:rgb(221, 244, 255);
+        }
+    }
+    h1 {
+        color: white;
+        font-family: 'Antonio', sans-serif;
+        text-align: center;
+    }
+    h2 {
+        color: white;
+        font-family: 'Antonio', sans-serif;
+        text-align: center;
+    }
+    nav {
+        text-align: center;
+    }
+    a {
+        color: rgb(151, 243, 255);
+        font-family: 'Antonio', sans-serif;
+        text-align: center;
+    }
+    img {
+        padding: 25px;
+        width: 500px;
+        font-family: 'Roboto', sans-serif;
+    }
+</style>
+
+<header>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@100;300;600&display=swap" rel="stylesheet">
+    <h1>ASAPVALENTINE</h1>
+    <h2>A Digital Portfolio</h2>
+</header>
+
+<nav>
+    <a href="Instagram">Instagram |</a>
+    <a href="Twitter">Twitter</a>
+</nav>
+
+<main>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@100;300;600&family=Roboto+Condensed&display=swap" rel="stylesheet">
+<p>ASAPVALENTINE is an aspiring artist wishing to become a tattoo artist. Currently studying graphic design in university while simultaneously working on his tattoo apprentice portfolio.</p>
+</main>
+
+<img src="https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/152379873_126799876004524_3768884423234133724_n.jpg?tp=1&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_ohc=2D-fx5-96iQAX-IvsJF&edm=AAuNW_gAAAAA&ccb=7-4&oh=1a348d0fb995850fe34f92d6956faf06&oe=609A6841&_nc_sid=498da5">
+<img src="https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/151418132_3708302732619751_6844575285428714801_n.jpg?tp=1&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=1Bc1zgPsXcMAX8rCx5I&edm=AAuNW_gAAAAA&ccb=7-4&oh=8f9d291f0ceb102d6d4b875cf35f2cf3&oe=609A97E1&_nc_sid=498da5">
+<img src="https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/151688911_108377311285400_740940143900186462_n.jpg?tp=1&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=108&_nc_ohc=ZEDKC7eBwr8AX9GIEJH&edm=AAuNW_gAAAAA&ccb=7-4&oh=82a51f8d10a9ed79c65417c817c0cd83&oe=60989243&_nc_sid=498da5">
+
+<footer>
+    <p>Published by: Xavier Valentine</p>
+    <p><a href="malito:xavier.valentine4@gmail.com">xavier.valentine4@gmail.com</a></p>
+</footer>
+
+</body>
+</html>
